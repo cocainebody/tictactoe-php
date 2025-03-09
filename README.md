@@ -1,5 +1,5 @@
 # TicTacToe in PHP
-A classic Tic Tac Toe game in which you can play against AI in your terminal. built with love, and PHP.
+A classic Tic Tac Toe game in which you can play against AI in your terminal. Built with love, and PHP.
 
 ## How to play
 
