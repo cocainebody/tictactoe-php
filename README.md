@@ -11,7 +11,7 @@ A classic Tic Tac Toe game in which you can play against AI in your terminal. Bu
 ## Download
 
 1. Clone this repo by using ```git clone https://github.com/reallythin/tictactoe-php```
-2. Then, navigate to the project directory ```cd tic-tac-toe-php```
+2. Then, navigate to the project directory with: ```cd```
 3. Run the game in your terminal with ```php game.php```
 
 ### Dependencies
